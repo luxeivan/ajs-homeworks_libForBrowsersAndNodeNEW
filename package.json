@@ -1,0 +1,23 @@
+{
+  "name": "ajs-homeworks_libforbrowsersandnodenew",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luxeivan/ajs-homeworks_libForBrowsersAndNodeNEW.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luxeivan/ajs-homeworks_libForBrowsersAndNodeNEW/issues"
+  },
+  "homepage": "https://github.com/luxeivan/ajs-homeworks_libForBrowsersAndNodeNEW#readme",
+  "dependencies": {
+    "@luxeivan/ajs-homeworks_libforbrowsersandnode": "^1.0.0"
+  }
+}
